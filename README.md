@@ -11,12 +11,12 @@ cd flask
 
 create python file in your working space(flask)
 
-create a workspace going in command pallet in vs code and then click setting .json
+create a workspace going in View>>command pallet>> Open Workspace setting in vs code and then click setting .json
 
 and write
 {
 
-    "python.pythonPath": "Path/.......your path......../python"
+    "python.pythonPath": "Path/{your path}/python"
     
 }
 
