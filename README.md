@@ -27,6 +27,11 @@ https://tecadmin.net/powershell-running-scripts-is-disabled-system/
 
 Kill the current terminal and you are ready to go.
 
+if not redirected Do:
+
+ & D:/UPwork/PythonOpenCvproject/hosting/work_env/Scripts/activate.ps1
+ & {path of script of env folder}/activateps1
+
 
 
 //////////////////////////   Extract The requirements ////////////////////////
